@@ -9,10 +9,15 @@ A Dashing Knight is a fast-paced 2D platformer where players take control of a b
 **Knight Dash**: Master the dash mechanic to traverse dangerous gaps, evade enemies, or close in for attacks.
 
 # Controls
+
 Left: A
+
 Right: D
+
 Jump: (Space)
+
 Dash: Left-Click (use mouse to aim it)
+
 Attack: Dash through those ghosts!
 
 # Development
@@ -41,3 +46,7 @@ Pineapple: https://pixelfrog-assets.itch.io/pixel-adventure-1?download
 MC: https://rvros.itch.io/animated-pixel-hero
 
 Tiling and Background: https://bakudas.itch.io/generic-dungeon-pack
+
+# Note
+
+Currently the MacOS version is unsupported and may not work, please check in for future updates!!
