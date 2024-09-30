@@ -28,7 +28,7 @@ Development: Daniel Kim
 
 Engine: Godot Engine
 
-Assets:
+# Assets
 
 SFXs: https://hunteraudio.itch.io/8bit-sfx-and-music-pack
 
