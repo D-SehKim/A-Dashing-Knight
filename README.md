@@ -25,11 +25,19 @@ A Dashing Knight was developed using the Godot Engine over a 48-hour game jam. A
 
 # Credits
 Development: Daniel Kim
+
 Engine: Godot Engine
+
 Assets:
+
 SFXs: https://hunteraudio.itch.io/8bit-sfx-and-music-pack
+
 Music: https://elolechan.itch.io/elos-8bit-style-game-music-dump#google_vignette
+
 Ghost Enemy: https://unknown-soldiersz.itch.io/platform-enemies-asset-pack
+
 Pineapple: https://pixelfrog-assets.itch.io/pixel-adventure-1?download
+
 MC: https://rvros.itch.io/animated-pixel-hero
+
 Tiling and Background: https://bakudas.itch.io/generic-dungeon-pack
